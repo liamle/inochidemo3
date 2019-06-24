@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "inochidemo3",
+    "packageName": "io.github.inochidemo3",
+    "packageFolder": "io/github/inochidemo3",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "ZDZiMGNjMjczMzU0ZWZlOGNhNzAzZGMwNzJkM2NlYmE1ODc2ZmIyYzg3MGUyY2VlZWMzMzVlNTcwOWEzMzE5OTk2YWE3YzcxNjE0ZmRkYThmMjhjMGI4Mjk5MjFjYWZjYTg0MWIyNTllZTRlNTcyNTA0YWNmNjZhNjQ5NmI0OWE=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "liamle",
+  "repository-name": "inochidemo3"
+}
